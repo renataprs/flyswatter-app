@@ -6,7 +6,7 @@
 - 3 difficulty levels based on fly's speed; </br>
 - Timer and life points.</br>
 </br>
-ℹ The interface was provided by the course: "Desenvolvimento Web Completo 2019" at Udemy. I did some modifications and translated the text elements from Portuguese into English.
+The interface was provided by the course: "Desenvolvimento Web Completo 2019" at Udemy. I did some modifications for better adaptation to my project and translated the text elements from Portuguese into English.
 
 
 <hr width = 50%>
@@ -17,6 +17,7 @@
 - Moscas de tamanho aleatório;</br>
 - 3 níveis de dificuldade com base na velocidade das moscas;</br>
 - cronômetro e pontos de vida. </br> 
+A interface foi fornecida pelo curso "Desenvolvimento Web Completo 2019" na Udemy. Eu fiz algumas modificações para melhor adaptação ao meu projeto e também traduzi os elementos de texto para o Inglês.
 </br>
  <img src="https://github.com/requaresma/flyswatter-app/blob/master/imagens/app-flyswatter.gif"/>
 
