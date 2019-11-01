@@ -8,9 +8,11 @@ A simple flyswatter game developed with javascript </br>
 - Fly's random positions; </br>
 - Fly's size random; </br>
 - 3 difficulty levels based on fly's speed; </br>
-- Timer and life points.
+- Timer and life points.</br>
+</br>
+</br>
 
-[PT-BR]</br>
+[PT-BR :br:]</br>
 
 Um simples jogo de mata-moscas, desenvolvido com javaScript. </br>
 <h1> Principais caracterśticas </h1> </br>
