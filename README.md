@@ -6,6 +6,7 @@
 - 3 difficulty levels based on fly's speed; </br>
 - Timer and life points.</br>
 </br>
+<hr width = 50%>
 [PT-BR 🇧🇷] 
 <blockquote> Um simples jogo de mata-moscas, desenvolvido com javascript.</blockquote> </br>
 <h1> Principais caracterśticas </h1> </br>
