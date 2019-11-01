@@ -12,6 +12,7 @@
 - Posições aleatórias das moscas;</br>
 - Moscas de tamanho aleatório;</br>
 - 3 níveis de dificuldade com base na velocidade das moscas;</br>
-- cronômetro e pontos de vida. </br>
+- cronômetro e pontos de vida. </br> 
+</br>
  <img src="https://github.com/requaresma/flyswatter-app/blob/master/imagens/app-flyswatter.gif"/>
 
