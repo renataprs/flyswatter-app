@@ -1,5 +1,5 @@
 # flyswatter-app
-A simple flyswatter game developed with javascript </br>
+<blockquote> A simple flyswatter game developed with javascript </blockquote> </br>
 </br>
 </br>
 ![app-flyswatter](https://user-images.githubusercontent.com/55499584/68051799-0be8ac00-fcc7-11e9-9228-dc8513c811f8.gif)
@@ -12,7 +12,7 @@ A simple flyswatter game developed with javascript </br>
 </br>
 </br>
 
-[PT-BR :br: ]</br>
+[PT-BR]</br>
 
 Um simples jogo de mata-moscas, desenvolvido com javaScript. </br>
 <h1> Principais caracterśticas </h1> </br>
