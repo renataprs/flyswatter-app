@@ -6,10 +6,13 @@
 - 3 difficulty levels based on fly's speed; </br>
 - Timer and life points.</br>
 </br>
-[PT-BR] </br>
+[PT-BR] 
+</br>
 <blockquote> Um simples jogo de mata-moscas, desenvolvido com javascript.</blockquote> </br>
 <h1> Principais caracterśticas </h1> </br>
 - Posições aleatórias das moscas;</br>
 - Moscas de tamanho aleatório;</br>
 - 3 níveis de dificuldade com base na velocidade das moscas;</br>
-- cronômetro e pontos de vida.
+- cronômetro e pontos de vida. </br>
+![app-flyswatter](https://user-images.githubusercontent.com/55499584/68056165-3475a380-fcd1-11e9-81f6-a25c9021abab.gif)
+
