@@ -17,7 +17,9 @@ The interface was provided by the course: "Desenvolvimento Web Completo 2019" at
 - Moscas de tamanho aleatório;</br>
 - 3 níveis de dificuldade com base na velocidade das moscas;</br>
 - cronômetro e pontos de vida. </br> 
+</br>
 A interface foi fornecida pelo curso "Desenvolvimento Web Completo 2019" na Udemy. Eu fiz algumas modificações para melhor adaptação ao meu projeto e também traduzi os elementos de texto para o Inglês.
+</br>
 </br>
  <img src="https://github.com/requaresma/flyswatter-app/blob/master/imagens/app-flyswatter.gif"/>
 
