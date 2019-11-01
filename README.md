@@ -11,7 +11,7 @@
 
 [PT-BR]</br>
 
-Um simples jogo de mata-moscas, desenvolvido com javaScript. </br>
+<blockquote> Um simples jogo de mata-moscas, desenvolvido com javaScript.</blockquote> </br>
 <h1> Principais caracterśticas </h1> </br>
 - Posições aleatórias das moscas;</br>
 - Moscas de tamanho aleatório;</br>
