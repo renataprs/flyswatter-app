@@ -12,7 +12,7 @@ A simple flyswatter game developed with javascript </br>
 </br>
 </br>
 
-[PT-BR :br:]</br>
+[PT-BR :br: ]</br>
 
 Um simples jogo de mata-moscas, desenvolvido com javaScript. </br>
 <h1> Principais caracterśticas </h1> </br>
