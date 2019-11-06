@@ -9,7 +9,7 @@
 The interface was provided by the course: "Desenvolvimento Web Completo 2019" at Udemy. I did some modifications for better adaptation to my project and translated the text elements from Portuguese into English.
 
 
-<hr width = 50%>
+<hr width = 100%>
 [PT-BR 🇧🇷] 
 <blockquote> Um simples jogo de mata-moscas, desenvolvido com javascript.</blockquote> </br>
 <h1> Principais características </h1> </br>
